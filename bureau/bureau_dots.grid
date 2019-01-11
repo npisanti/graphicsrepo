@@ -1,0 +1,196 @@
+{
+  "settings": {
+    "size": {
+      "width": 1035,
+      "height": 555
+    }
+  },
+  "layers": [
+    [
+      {
+        "type": "line",
+        "vertices": [
+          {
+            "x": 75,
+            "y": 15
+          },
+          {
+            "x": 255,
+            "y": 15
+          },
+          {
+            "x": 255,
+            "y": 255
+          },
+          {
+            "x": 75,
+            "y": 255
+          },
+          {
+            "x": 75,
+            "y": 15
+          }
+        ]
+      },
+      {
+        "type": "line",
+        "vertices": [
+          {
+            "x": 375,
+            "y": 195
+          },
+          {
+            "x": 435,
+            "y": 255
+          },
+          {
+            "x": 375,
+            "y": 255
+          }
+        ]
+      },
+      {
+        "type": "line",
+        "vertices": [
+          {
+            "x": 615,
+            "y": 255
+          },
+          {
+            "x": 675,
+            "y": 255
+          },
+          {
+            "x": 675,
+            "y": 195
+          },
+          {
+            "x": 615,
+            "y": 195
+          },
+          {
+            "x": 615,
+            "y": 255
+          }
+        ]
+      },
+      {
+        "type": "line",
+        "vertices": [
+          {
+            "x": 435,
+            "y": 315
+          },
+          {
+            "x": 375,
+            "y": 315
+          },
+          {
+            "x": 435,
+            "y": 375
+          },
+          {
+            "x": 375,
+            "y": 375
+          },
+          {
+            "x": 435,
+            "y": 435
+          }
+        ]
+      },
+      {
+        "type": "line",
+        "vertices": [
+          {
+            "x": 615,
+            "y": 435
+          },
+          {
+            "x": 615,
+            "y": 495
+          },
+          {
+            "x": 675,
+            "y": 435
+          }
+        ]
+      },
+      {
+        "type": "line",
+        "vertices": [
+          {
+            "x": 615,
+            "y": 375
+          },
+          {
+            "x": 615,
+            "y": 435
+          },
+          {
+            "x": 675,
+            "y": 375
+          }
+        ]
+      },
+      {
+        "type": "arc_c",
+        "vertices": [
+          {
+            "x": 795,
+            "y": 75
+          },
+          {
+            "x": 915,
+            "y": 75
+          },
+          {
+            "x": 795,
+            "y": 135
+          }
+        ]
+      },
+      {
+        "type": "line",
+        "vertices": [
+          {
+            "x": 795,
+            "y": 135
+          },
+          {
+            "x": 855,
+            "y": 195
+          }
+        ]
+      }
+    ],
+    [],
+    []
+  ],
+  "styles": [
+    {
+      "thickness": 10,
+      "strokeLinecap": "square",
+      "strokeLinejoin": "miter",
+      "color": "#fff",
+      "fill": "none",
+      "mirror_style": 0
+    },
+    {
+      "thickness": 10,
+      "strokeLinecap": "round",
+      "strokeLinejoin": "round",
+      "color": "#ccc",
+      "fill": "none",
+      "mirror_style": 0
+    },
+    {
+      "thickness": 10,
+      "strokeLinecap": "round",
+      "strokeLinejoin": "round",
+      "color": "#999",
+      "fill": "none",
+      "mirror_style": 0
+    }
+  ]
+}
